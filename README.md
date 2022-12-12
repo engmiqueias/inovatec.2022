@@ -2,11 +2,20 @@
 
 ## Integrantes 
 
-Especificar os integrantes do grupo e suas funções (Gestão Executiva, Gestão Operacional e Gestão de Marketing).
+**Gestão Executiva:**
+- Gabriel Ferreira Gramado dos Santos 
+- Juliana da Silva Mota 
+- Miquéias Eudes Nogueira 
+
+**Gestão Operacional**
+- Érica Souza dos Santos 
+- Ricardo da Silva Pereira 
+
+**Gestão de Marketing**
+- Gean Nogueira
+- Victor Hugo Silva 
 
 ## Passos
-
-Descrever os 5 passos para elaboração do projeto de inovação. Nesse contexto, os detalhes sobre o objetivo de cada passo estão disponíveis [aqui](https://academiapme-my.sharepoint.com/:w:/g/personal/marjory_dio_me/Efb7IK14WzJNhnx7wmDwh9gBydAUvsgfLgGvpanquISsZg). Basicamente, segue uma síntese de cada passo:## Passos
 
 1 º passo para elaborar um projeto de inovação:  
 Metas do projeto: Elaboração de proposta de projeto social, voltado a instituições que necessitam de Pessoas Portadoras de Necessidades Especiais.
@@ -71,15 +80,3 @@ Link com a descrição do Pitch e Materiais complementares:
 
 https://drive.google.com/drive/folders/1uTN3xlCIVnOsSmhB1igqZy0kn03VWpSY?usp=share_link
 
-
-- 1º Passo: Definir as metas e objetivos do projeto de inovação, desenhando um escopo; 
-- 2º Passo: Planejar o projeto de inovação, criando um cronograma; 
-- 3º Passo: Desenvolver o projeto de inovação, deixando claras suas entregas de valor; 
-- 4º Passo: Avaliar o projeto de inovação, coletando e analisando os feedbacks;
-- 5º Passo: Apresentar do projeto na feira de inovação 🚀
-
-## Pitch
-
-Descrição do Pitch (quem vai falar o que na apresentação, ordem da apresentação etc). Nesse sentido, um vídeo de Pitch pode ser criado e disponibilizado aqui (através de um link), facilitando o entendimento/compartilhamento do seu projeto de inovação. 
-
-Por fim, links de slides e materiais complementares (que podem apoiar o entendimento do projeto de inovação) também podem ser disponibilizados nesta seção.
